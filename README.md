@@ -16,3 +16,10 @@ Each record represents one customer, and contains details about their demographi
 subscription services, status for the quarter (joined, stayed, or churned), and more!
 
 
+
+## recommendation
+
+#### Communicate Effectively: Keeping customers informed of changes in the product or service
+#### Improving the company's equipment to suit customer requirements, because this is the most reason for customers to leave
+#### Improve customer service : Responding to customer inquiries and complaints quickly and effectively can help build customer loyalty
+#### Use customer data to deliver customized offers and promotions : By offering discounts, bonuses and incentives
