@@ -1,4 +1,4 @@
-# Telecom_dashboard
+# 🙁📡 Telecom Customer Churn
 
 ![Telecom_1](https://user-images.githubusercontent.com/58599482/229754032-4a16c6cf-9e71-4337-9471-38cf15d2f8c3.png)
 ![Telecom_2](https://user-images.githubusercontent.com/58599482/229754055-97342f4a-0dc6-44f7-bd96-2a175ba9891e.png)
