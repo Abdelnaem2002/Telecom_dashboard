@@ -17,6 +17,12 @@ subscription services, status for the quarter (joined, stayed, or churned), and 
 
 
 
+## Steps :
+
+#### I analyzed the data via SQL and understood it well, then I started the analysis process and found the main problem is that the customers churn because of the presence of competitors' internet devices that are better than ours
+#### After that, I extracted important insight from the data and made a set of relationships between the data and some of them
+#### In the last step, I made graphs using power bi to illustrate the final numbers into illustrations in order to show what we have to do and take decisions that benefit the company
+
 ## recommendation
 
 #### Communicate Effectively: Keeping customers informed of changes in the product or service
